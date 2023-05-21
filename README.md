@@ -8,7 +8,7 @@ Features
     <li>Search Functionality: Users can easily search for their favorite anime by title, genre, or any other relevant criteria. The search feature enhances the user experience by allowing them to quickly find specific anime series or movies.
      <li>Detailed Anime Pages: Each anime entry on the website has its own dedicated page, providing detailed information about the series or movie. This includes a synopsis, episode list, characters, airing status, and other relevant details.
 </ul>
-
+<br>
 Technologies Used
 <ul>
   <li>React: The website is built using React, which provides a robust and efficient framework for developing interactive user interfaces.
@@ -16,14 +16,14 @@ Technologies Used
    <li>HTML & CSS: The project utilizes HTML and CSS for structuring and styling the website, ensuring an appealing and intuitive user interface.
      <li>JavaScript: JavaScript is used to handle dynamic interactions, implement search functionality, and manipulate data received from the API.
 </ul>
-
+<br>
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 git clone https://github.com/your-username/anime-website.git
-2. Install the required dependencies using npm or yarn:
-cd anime-website
+2. Install the required dependencies using npm or yarn:<br>
+cd anime-website<br>
 npm install
 3. Obtain an API key from the anime data provider and update the code to include your API key. You can usually find instructions on how to obtain an API key in the API documentation.
-4. Start the development server:
+4. Start the development server:<br>
 npm start
 5. Open your browser and visit http://localhost:3000 to access the anime website.
