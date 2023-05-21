@@ -2,9 +2,9 @@
 
 This project is a dynamic and interactive anime website built using React, a popular JavaScript library for building user interfaces and uses API to fetch data.
 
-![akshay56789_AnimeTube-anime-website_ This project is a dynamic and interactive anime website built using React and uses graphql API to fetch data related to anime  - Google Chrome 21-05-2023 22_26_33](https://github.com/akshay56789/AnimeTube-anime-website/assets/130206125/fff01d91-86e5-42ed-a92e-24ce1cdd7abd)
+![akshay56789_AnimeTube-anime-website_ This project is a dynamic and interactive anime website built using React and uses graphql API to fetch data related to anime  - Google Chrome 21-05-2023 22_26_33 (2)](https://github.com/akshay56789/AnimeTube-anime-website/assets/130206125/c290d34c-022d-4423-aead-93f5b45f4f4a)
 
-![akshay56789_AnimeTube-anime-website_ This project is a dynamic and interactive anime website built using React and uses graphql API to fetch data related to anime  - Google Chrome 21-05-2023 22_25_35](https://github.com/akshay56789/AnimeTube-anime-website/assets/130206125/4fb59949-c106-42bf-9b49-9545070da891)
+![akshay56789_AnimeTube-anime-website_ This project is a dynamic and interactive anime website built using React and uses graphql API to fetch data related to anime  - Google Chrome 21-05-2023 22_25_35 (2)](https://github.com/akshay56789/AnimeTube-anime-website/assets/130206125/33b6774a-1617-422b-89e4-a3df46b15289)
 
 Features
 <ul>
