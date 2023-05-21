@@ -1,4 +1,4 @@
-# AnimeTube-anime-website
+# AnimeTube
 
 This project is a dynamic and interactive anime website built using React, a popular JavaScript library for building user interfaces and uses API to fetch data.
 
