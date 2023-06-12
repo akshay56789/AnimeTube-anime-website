@@ -18,3 +18,9 @@ This project is a dynamic and interactive anime website built using React, a pop
   <li>HTML & CSS: The project utilizes HTML and CSS for structuring and styling the website, ensuring an appealing and intuitive user interface.</li>
   <li>JavaScript: JavaScript is used to handle dynamic interactions, implement search functionality, and manipulate data received from the API.</li>
 </ul>
+
+<h3>Acknowledgements</h3>
+This project utilizes data from Anime Data API, a fantastic resource for retrieving anime-related information. Special thanks to the API creators and maintainers for providing such valuable data.
+
+<h3>License</h3>
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
