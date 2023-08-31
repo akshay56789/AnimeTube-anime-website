@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnimeTube-anime-website/static/css/main.656df2dc.css",
-    "main.js": "/AnimeTube-anime-website/static/js/main.00481b65.js",
+    "main.js": "/AnimeTube-anime-website/static/js/main.3cdf8e1e.js",
     "static/js/787.da4ed123.chunk.js": "/AnimeTube-anime-website/static/js/787.da4ed123.chunk.js",
     "static/media/slick.svg": "/AnimeTube-anime-website/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/AnimeTube-anime-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/AnimeTube-anime-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/AnimeTube-anime-website/index.html",
     "main.656df2dc.css.map": "/AnimeTube-anime-website/static/css/main.656df2dc.css.map",
-    "main.00481b65.js.map": "/AnimeTube-anime-website/static/js/main.00481b65.js.map",
+    "main.3cdf8e1e.js.map": "/AnimeTube-anime-website/static/js/main.3cdf8e1e.js.map",
     "787.da4ed123.chunk.js.map": "/AnimeTube-anime-website/static/js/787.da4ed123.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.656df2dc.css",
-    "static/js/main.00481b65.js"
+    "static/js/main.3cdf8e1e.js"
   ]
 }
